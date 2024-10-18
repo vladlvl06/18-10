@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(73, 1, 1);
+    text-align: center;
+    margin: 20px;
+}
+
+#clicks {color: white;}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+img {
+    transition: transform 0.3s;
+    
+}
